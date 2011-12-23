@@ -1,0 +1,2 @@
+C:\Program Files (x86)\BitRock InstallBuilder Enterprise 7.2.6\bin
+ C:/Users/Tanes/Documents/InstallBuilder/output/POS-1.0-windows-installer.exe
